@@ -10,7 +10,7 @@ A professional, asynchronous Command Line Interface (CLI) tool designed to scan 
 
 ## 📸 Demo
 
-![Scanner Screenshot](screenshot.png)
+![Scanner Screenshot](Scan_screen.jpg)
 *(Note: Replace this image with a screenshot of your actual terminal output)*
 
 ---
